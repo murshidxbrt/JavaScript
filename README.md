@@ -1,4 +1,4 @@
-Of course! Here's a brief overview of each component in the JavaScript code for the enhanced to-do list project:
+! Here's a brief overview of each component in the JavaScript code for the enhanced to-do list project:
 
     Adding Tasks:
         When the "Add Task" button is clicked, the addButton event listener triggers the addTask function.
